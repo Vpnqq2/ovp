@@ -1,0 +1,12 @@
+{
+    "servers": [
+        {
+            "name": "Server 1",
+            "url": "https://raw.githubusercontent.com/Vpnqq2/ovpn/main/test.ovpn"
+        },
+        {
+            "name": "Server 2",
+            "url": "https://raw.githubusercontent.com/username/repository/main/server2.ovpn"
+        }
+    ]
+}
